@@ -1,5 +1,8 @@
 # Refer https://github.com/zyrouge/pong#configuration for documentation
 
 urls:
-  - path: "https://google.com"
+  - path: "https://uptimerfree.tk"
+    type: "get"
+  
+  - path: "https://monitoruptimer.tk"
     type: "get"
