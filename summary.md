@@ -1,5 +1,5 @@
 # 📖 Summary
-Last updated: **3/14/2022, 7:27:14 AM**
+Last updated: **3/14/2022, 7:38:57 AM**
 
-- `GET` [https://uptimerfree.tk](https://uptimerfree.tk) - **Up** (5695ms)
-- `GET` [https://monitoruptimer.tk](https://monitoruptimer.tk) - **Down** (3796ms)
+- `GET` [https://uptimerfree.tk](https://uptimerfree.tk) - **Up** (590ms)
+- `GET` [https://monitoruptimer.tk](https://monitoruptimer.tk) - **Down** (4219ms)
